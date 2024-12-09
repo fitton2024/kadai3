@@ -33,3 +33,8 @@ $(function () {
     }
   });
 });
+
+
+$(function(){
+  $("#datepicker").datepicker();
+});
